@@ -1,1 +1,1 @@
-# US_AI_Exposure
+# Exposure to Generative Artificial Intelligence in the United States

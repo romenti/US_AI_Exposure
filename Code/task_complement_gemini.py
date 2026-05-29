@@ -19,7 +19,7 @@ from openai import OpenAI
 # ------------------------- CLIENT -------------------------
 
 client = OpenAI(
-    base_url="https://router.huggingface.co/v1",
+    base_url="",
     api_key=HF_TOKEN,
 )
 
